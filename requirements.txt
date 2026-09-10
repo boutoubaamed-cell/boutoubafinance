@@ -4,9 +4,9 @@ beautifulsoup4
 pdfplumber
 pandas
 urllib3
-PyMuPDF
-Pillow
+pymupdf
+pillow
 pytesseract
 google-genai
 plotly
-numpy﻿
+numpy
